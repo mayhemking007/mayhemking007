@@ -25,8 +25,7 @@ Constraint became a feature.
 
 ## A bit more
 
-- Contributed to [Docmost](https://github.com/docmost/docmost) — Editor Tab key fallback and i18n
-  rendering bug. Both merged.
+- A few fixes contributed to [Docmost](https://github.com/docmost/docmost). All merged.
 - Node.js · PostgreSQL · Redis · Elasticsearch · Docker · BullMQ · pgvector
 
 ---
